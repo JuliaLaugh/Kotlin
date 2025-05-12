@@ -1,5 +1,6 @@
 package org.example.app.lesson_1
 
 fun main() {
-
+    println("hello")
+    println("how are u")
 }
